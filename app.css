@@ -1,0 +1,66 @@
+.navbar{
+    background-color: rgb(240, 167, 205);
+    
+}
+.nav-link{
+    color: rgb(239, 12, 133);
+    font-weight: 600;
+    margin-left: 40px;
+}
+.dropdown-item{
+    color: rgb(239, 12, 133);
+    font-weight: 600;
+    
+}
+.dropdown-item:hover{
+    background-color: rgb(70, 69, 69);
+    color: rgb(239, 12, 133);
+
+}
+
+
+#heading{
+    
+    margin-top: 50px;
+}
+h3{
+    color: rgb(82, 3, 45);
+}
+#abc{
+    background-color: black;
+    color: deeppink;
+}
+p{
+    font-weight: 500;
+
+}
+#abc:hover {
+   color: brown;
+    background-color: rgb(114, 172, 223);
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+#kristen{
+    padding-top: 20px;
+}
+.card-body{
+    height: 150px;
+    overflow: scroll;
+   
+}
+.card-body img{
+    height: 80px;
+    width: 95px;
+    border-radius: 5%;
+}
+.btn{
+    margin-left: 40px;
+    background-color: rgb(189, 194, 198);
+    
+}
+
+.page-link{
+    color: rgb(239, 12, 133);
+}
